@@ -1,5 +1,5 @@
 # Team-Unfit
-Team Unfit repository
+Team Unfit Proposal 
 
 ## Introduction
 What is your project and what dilemma does it aim to address.
