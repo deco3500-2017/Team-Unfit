@@ -21,11 +21,12 @@ The team is called Team Unfit and consist of 5 individuals
 - Nipun Amarasinghe - Information Technology
 
 Roles and responsabilities:
+- Nipun Amarasinghe - Team leader Programmer. Planning meetings and making task for each member. Setting target for each week to ensure that every week team has something to achieve and each member are contributing to the target of the week. Handles the front end part of the project.
 - Andres Munoz - Designer.
 - Jiaxuan Li - Designer.
 - Kian Noctor - Programmer.
 - Alvin Lo - Designer.
-- Nipun Amarasinghe - Team leader Programmer.
+
 
 
 ## Communications
