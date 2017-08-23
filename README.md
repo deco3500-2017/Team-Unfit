@@ -16,16 +16,18 @@ Who is on your team, what are their responsibilities, and how will you work toge
 The team is called Team Unfit and consist of 5 individuals
 - Andres Munoz - Information Technology (User Experience Design)
 - Jiaxuan Li - Information Technology (Software Design)
-- Kian Noctor Multimedia Design
+- Kian Noctor - Multimedia Design
 - Alvin Lo - Information Technology
 - Nipun Amarasinghe - Information Technology
 
 Roles and responsabilities:
-- Nipun Amarasinghe - Team leader Programmer. Planning meetings and making task for each member. Setting target for each week to ensure that every week team has something to achieve and each member are contributing to the target of the week. Handles the front end part of the project.
-- Andres Munoz - Designer.
-- Jiaxuan Li - Designer.
-- Kian Noctor - Programmer.
-- Alvin Lo - Designer.
+- Nipun Amarasinghe - Team leader Programmer. Planning meetings and organizing tasks for each member. Setting a goal for each week to ensure that every team member has something to achieve and each member are contributing to the goal of that week. Handles the back end part of the project.
+- Andres Munoz - Designer. Ensures that the design is appealing and has a great user experience. Handles the designing and testing part of the project.
+- Jiaxuan Li - Designer. Makes sure that all possibilities and imperfections are taken into contemplation.  Handles the designing and testing part of the project.
+- Kian Noctor - Programmer. Making sure everything is right and is on schedule. Handles the back end part of the project. 
+- Alvin Lo - Designer. Makes sures that every team member agrees on a single decision. Handles the designing and testing part of the project.
+
+Team handles poor performance and resolve conflicts:
 
 
 
