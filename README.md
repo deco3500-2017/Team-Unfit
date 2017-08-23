@@ -5,13 +5,25 @@ Team Unfit Proposal
 What is your project and what dilemma does it aim to address.
 ## Concept
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
-## Team
+## Team Unfit
 Who is on your team, what are their responsibilities, and how will you work together? List all the members and their course code. Identify:
 - Who will lead the team and manage the project;
 - Who is responsible for logistics e.g. equipment, meetings, transport, etc;
 - Who fills key roles, e.g. back end, front end, content, design;
 - How will decisions be made;
 - How will the team handle poor performance and resolve conflicts.
+
+The team is called Team Unfit and consist of 5 individuals
+- Andres Munoz - Information Technology (User Experience Design)
+- Jiaxuan Li - Information Technology (Software Design)
+- Kian Noctor 
+-
+-
+
+Roles and responsabilities:
+
+
+
 ## Communications
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
