@@ -13,7 +13,7 @@ Who is on your team, what are their responsibilities, and how will you work toge
 - How will decisions be made;
 - How will the team handle poor performance and resolve conflicts.
 
-The team is called Team Unfit and consist of 5 individuals
+The team is called Team Unfit and consist of 5 individuals:
 - Andres Munoz - Information Technology (User Experience Design)
 - Jiaxuan Li - Information Technology (Software Design)
 - Kian Noctor - Multimedia Design
@@ -28,15 +28,19 @@ Roles and responsabilities:
 - Alvin Lo - Designer. Makes sures that every team member agrees on a single decision. Handles the designing and testing part of the project.
 
 Team handles poor performance and resolve conflicts:
+
 Conflict arises:
-Identify and understand the problem as a team.
-Be considerate of team members’ feelings.
-Establish a solution to satisfy all team members and document the issue, including time and date.
+
+- Identify and understand the problem as a team.
+- Be considerate of team members’ feelings.
+- Establish a solution to satisfy all team members and document the issue, including time and date.
+
 Conflict is not resolved:
-Iterate the previous process to establish a different solution. If an agreement is not met, then,
-The final decision will be made by the scrum master, from a neutral position. If conflicts arise regarding the same topic, after the scrum master has made their decision, then,
-A tutor will be consulted.
-The issue will try to be resolved again with the tutor’s advice, and peer assessment may be requested if necessary
+
+- Iterate the previous process to establish a different solution. 
+- If an agreement is not met, then, the final decision will be made by the Team Leader, from a neutral position.
+- If conflicts arise regarding the same topic, after the Team Leader has made their decision, then,a tutor will be consulted.
+- The issue will try to be resolved again with the tutor’s advice, and peer assessment may be requested if necessary.
 
 
 
