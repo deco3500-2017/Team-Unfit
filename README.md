@@ -17,8 +17,8 @@ The team is called Team Unfit and consist of 5 individuals
 - Andres Munoz - Information Technology (User Experience Design)
 - Jiaxuan Li - Information Technology (Software Design)
 - Kian Noctor 
--
--
+- Alvin Lo - Information Technology
+- 
 
 Roles and responsabilities:
 
