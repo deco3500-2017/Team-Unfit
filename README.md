@@ -7,11 +7,14 @@ What is your project and what dilemma does it aim to address.
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
 ## Team Unfit
 The team is called Team Unfit and consist of 5 individuals:
-- Andres Munoz - Information Technology (User Experience Design)
-- Jiaxuan Li - Information Technology (Software Design)
-- Kian Noctor - Multimedia Design
-- Alvin Lo - Information Technology
-- Nipun Amarasinghe - Information Technology
+
+|Student Name|Student Number|Bachelor|Major|
+|--------|-------|-------|-------|
+|Andres Munoz|44086660|Information Technology|User Experience Design|
+|Jiaxuan Li|43847640|Information Technology|Software Design|
+|Kian Noctor|43960240|Multimedia Design|None|
+|Alvin Lo|43572447|Information Technology|None|
+|Nipun Amarasinghe||Information Technology|None|
 
 Roles and responsabilities:
 - Nipun Amarasinghe - Team leader Programmer. Planning meetings and organizing tasks for each member. Setting a goal for each week to ensure that every team member has something to achieve and each member are contributing to the goal of that week. Handles the back end part of the project.
