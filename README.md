@@ -41,6 +41,10 @@ Conflict is not resolved:
 
 
 ## Communications
+ - As a team, we all agree that we will meet together at the workshop every week on Wednesday afternoon.
+ - Extra meeting will be organise as a team to pick a time and a place with available for every team memebers. 
+ - Files will be all stored on Github. Files such as documents will be store on Google Drive which all team members will have access and opportunity to edit and view those documents.
+ 
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
 ## Plan
