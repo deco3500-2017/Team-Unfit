@@ -3,6 +3,7 @@ Team Unfit Proposal
 
 ## Introduction
 What is your project and what dilemma does it aim to address.
+Development a system allows people who looking for exercise get together. 
 ## Concept
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
 ## Team Unfit
@@ -41,12 +42,23 @@ Conflict is not resolved:
 
 
 ## Communications
+Meetings
  - As a team, we all agree that we will meet together at the workshop every week on Wednesday afternoon.
- - Extra meeting will be organise as a team to pick a time and a place with available for every team memebers. 
- - Files will be all stored on Github. Files such as documents will be store on Google Drive which all team members will have access and opportunity to edit and view those documents.
+ - Extra meeting will be organise as a team (if needs) to pick a time and a place with available for every team memebers. 
  
-Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
-Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
+ Storage
+ - Files will be stored on Github. 
+ - Files such as documents or report will be store on Google Drive where all team members will have access and opportunity to edit and view those documents. Google Drive allows every team members to view and able to receive the last edit documents version.
+ 
+ Social Platform
+ - Using facebook to contact with each other. It will be the first options for all memebers to communcate with each other about the project.
+ - All members had signed up on Slack. It will be the second options if facebook is not working or memeber is not responding.
+ 
+Where and when will your team meet and how will you all communicate?
+Where will files be stored and shared? 
+What are the file naming conventions?
+Identify the social platform/s your team has adopted and explain the choice. 
+How will it facilitate communication and / or file sharing?
 ## Plan
 Identify the key tasks that need to be completed and when. Identify:
 - Project phases e.g. research; requirements; design; construction;
