@@ -3,7 +3,7 @@ Team Unfit Proposal
 
 ## Introduction
 What is your project and what dilemma does it aim to address.
-Development a system allows people who looking for exercise get together. 
+Development a system allows people who looking for exercise together. 
 ## Concept
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
 ## Team Unfit
@@ -62,7 +62,16 @@ How will it facilitate communication and / or file sharing?
 ## Plan
 Identify the key tasks that need to be completed and when. Identify:
 - Project phases e.g. research; requirements; design; construction;
+
 - Key deliverables for each phase (Milestones)2;
+Oral Pitch - Due on the 30th Aug
+Project Proposal - Due on the 1st Sep
+
 - Resources – equipment or other tools/people you might need.
 ## Tags
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+1. Interaction
+2. Notification
+3. Social Networks
+4. Information Sharing
+5. Awareness
