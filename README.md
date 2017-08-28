@@ -63,9 +63,7 @@ How will it facilitate communication and / or file sharing?
 Identify the key tasks that need to be completed and when. Identify:
 - Project phases e.g. research; requirements; design; construction;
 
-- Key deliverables for each phase (Milestones)2;
-Oral Pitch - Due on the 30th Aug
-Project Proposal - Due on the 1st Sep
+
 
 - Resources – equipment or other tools/people you might need.
 ## Tags
