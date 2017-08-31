@@ -2,8 +2,7 @@
 Team Unfit Proposal 
 
 ## Introduction
-What is your project and what dilemma does it aim to address.
-Development a system allows people who looking for exercise together. 
+Exercising can sometimes be a challenge for people as they struggle to stay motivated. People usually find fitness boring as they do not  like working out by themselves, working with a group of people can be much more motivating and fun, this can maintain a person more engaged and inspired to exercise. Team Fit aims to solve the problem of training long and boring sessions alone. Users can easily use the phone app to find a community to exercise along with, to achieve their personal best and goals. They are able to find training sessions based on the training category or their location. A session contains information about the date it is scheduled for, the location/location images and other users attending. 
 ## Concept
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
 ## Team Unfit
