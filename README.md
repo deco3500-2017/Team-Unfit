@@ -6,7 +6,7 @@ Exercising can sometimes be a challenge for people as they struggle to stay moti
 ## Ideal User
 how does your solution target them?
 ### User testing
-how will you access them form testing?
+how will you access them for testing?
 how will you get the final prototype in their hands?
 what types of user testing will you do?
 ## Concept
