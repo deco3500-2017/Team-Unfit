@@ -104,17 +104,23 @@ What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. 
 How will it facilitate communication and / or file sharing?
 ## Plan
-Identify the key tasks that need to be completed and when. Identify:
-- Project phases e.g. research; requirements; design; construction;
 
+|Goal|Notes|
+|Research||
+|Refine Concept||
+|Develop Target Persona|1 produced by each member|
 
-
-- Resources – equipment or other tools/people you might need.
 ## Tags
-Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+
+### Key Concepts
 1. Interaction
 2. Notification
 3. Social Networks
 4. Information Sharing
 5. Awareness
+
+### Key Words
+1. Community
+2. Fitness
+3. Exercise
 
