@@ -106,10 +106,14 @@ How will it facilitate communication and / or file sharing?
 ## Plan
 
 |Goal|Notes|
+|---------|-------|
 |Research||
 |Refine Concept||
 |Develop Target Persona|1 produced by each member|
+|Write-up proposal|<ul><li>Introduction (Andres)</li><li>-Concept (Kian)</li><li>Roles & Responsibilities (Andres)</li><li>Communication (Alvin)</li><li>Project Plan (Nipun)</li><li>Tags (Jiaxuan)</li> Proposal write-up will be split between team members.|
+|**ORAL PITCH & PROPOSAL - WEEK 6**|
 
+### Development Phase
 ## Tags
 
 ### Key Concepts
