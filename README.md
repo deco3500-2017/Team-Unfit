@@ -110,10 +110,28 @@ How will it facilitate communication and / or file sharing?
 |Research||
 |Refine Concept||
 |Develop Target Persona|1 produced by each member|
-|Write-up proposal|<ul><li>Introduction (Andres)</li><li>-Concept (Kian)</li><li>Roles & Responsibilities (Andres)</li><li>Communication (Alvin)</li><li>Project Plan (Nipun)</li><li>Tags (Jiaxuan)</li> Proposal write-up will be split between team members.|
+|Write-up proposal|Proposal write-up will be split between team members.<ul><li>Introduction (Andres)</li><li>Concept (Kian)</li><li>Roles & Responsibilities (Andres)</li><li>Communication (Alvin)</li><li>Project Plan (Nipun)</li><li>Tags (Jiaxuan)</li></ul>|
 |**ORAL PITCH & PROPOSAL - WEEK 6**|
 
 ### Development Phase
+|Goal|Notes|
+|---------|-------|
+|Wireframes/Mockups |Page layout/design|
+|Asset Development |Created by Design Team|
+|Implement App Functionality<ul><li>Main UI</li><li>Front-end development</li></ul>|A collaboration between designers and programmers|
+|**INTERACTION WALKTHROUGH - WEEK 8**|
+
+### Construction Phase
+|Goal|Notes|
+|---------|-------|
+|Re-evaluate App Design|Update app design/layout in response to user feedback|
+|Implement further functionality <ul><li>Profile Creation</li><li>Map Activities </li></ul>||
+|**USER TESTING - WEEK 10** |
+|Revisit App functionality |Update the App design based upon feedback from testing session |
+|Implement further functionality <ul><li>In-App Messaging/ Notifications</li><li>Match Making</li></ul>||
+|**FINAL ITERATION - WEEK 12**|
+|Final Polish|Polish off the App submission |
+|**FINAL SUBMISSION - 27TH OCTOBER**|
 ## Tags
 
 ### Key Concepts
