@@ -19,7 +19,35 @@ Since anyone from any range of age is able to exercise, we will mainly access Un
 The main methods of user testing that the team will be using are questionnaires, interviews and observations. As this three methods allow to gather meaningful qualitative/quantitative data and feedback to improve every prototype stage.
 
 ## Concept
-outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
+Working out on your own can be difficult and according to research having a partner motivates you to exercise consistently, harder and decreases your chances of giving up. The idea behind this app is that it allows users to find a community of likeminded individuals with the same fitness goals and interests as yourself. All users will have to sign up and input information such as fitness goals, personal bests, their weight, and what area they live in (Users can decide which information is made public). This information will help users find workout sessions that are tailored for them.
+
+When users have signed up they are then able to join or create workout sessions. Any user is able to create a workout session as different users may have experience in the fitness industry or are just seasoned fitness fanatics and feel they can help those wanting to get started. A workout session will contain the following information:
+
+-          Name
+-          Location
+-          Date and time
+-          A short description (what sort of exercises and training will occur)
+-          Categories (e.g. Cardio, HIIT, Yoga etc.)
+-          Difficulty (Beginner – Advanced)
+-          Availability (Number of spots)
+
+Once a user has joined a session they will also then have access to the session’s chat and will also receive notifications for changes to the session, messages from the chat and a reminder on the day of the session. When a user goes to a session they can add people that they meet through the app and then invite them to other sessions that they may be interested in going to.
+
+
+This application aims to achieve the following:
+
+Allow users to find workout sessions catered for their needs. This is largely based on their location, fitness goals and difficulty and interests.
+Find users that have the same interests and goals as they do.
+Create a safe and non-judgemental environment where users can workout
+
+
+While there are hundreds of fitness apps available there isn’t anything similar to what this application is trying to achieve. Most fitness apps are personal, they provide users with workouts to do on their own, provide them with personal statistics, have users log their workouts or the food they eat. The social workout apps have users compete against one another with stats or if they are not competing there are discussions about their workouts and no actual working out. Where our app differs is that it gets users working out together in a real world setting and not just online. Many of these apps aren’t considering that some users may be new to working out and that comparing them to others with statistics may be more discouraging than motivating. We want our app to be used as a platform for people to meet and join sessions in an online setting and then workout together in a real world setting and help each other work on their fitness goals.
+
+
+There are a few apps such as Dashr and Sidekick which have the same intention of having people find workout partners, however they were quite personal as you would usually meet with just one person. Where our app differs again is that group sessions are less intimidating as there are many people you can interact with and don’t have to get along with just one person.
+
+Strava is an application that is similar to what the TeamFit app is trying to achieve. It is focussed on adding a social network that is supportive and allows you to share your achievements and workout routes with your friends. Implementing strava and fitbit into the app could prove to be beneficial in creating a more fun and supportive environment for our app. 
+
 ## Team Unfit
 The team is called Team Unfit and consist of 5 individuals:
 
@@ -56,17 +84,19 @@ Conflict is not resolved:
 
 
 ## Communications
-Meetings
+### Meetings
  - As a team, we all agree that we will meet together at the workshop every week on Wednesday afternoon.
  - Extra meeting will be organise as a team (if needs) to pick a time and a place with available for every team memebers. 
  
- Storage
+### Storage
  - Files will be stored on Github. 
  - Files such as documents or report will be store on Google Drive where all team members will have access and opportunity to edit and view those documents. Google Drive allows every team members to view and able to receive the last edit documents version.
- 
- Social Platform
+ - The naming convention for files will be that all words are in lowercase, with each word separated by an underscore. 
+
+### Social Platform
  - Using facebook to contact with each other. It will be the first options for all memebers to communcate with each other about the project.
  - All members had signed up on Slack. It will be the second options if facebook is not working or memeber is not responding.
+ - Using Google Drive to share files for the course. Google Drive will also assist in the write-up of team documentation.
  
 Where and when will your team meet and how will you all communicate?
 Where will files be stored and shared? 
