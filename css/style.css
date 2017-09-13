@@ -1,0 +1,740 @@
+
+/* ----- Home/index css -------*/
+#homeContainer {
+    background-color: yellow;
+    height: 480px;
+    width:400px;
+    margin: 0 auto;
+    margin-top: 40px;
+
+   
+}
+
+#mainFrame {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background-color:green;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    -webkit-box-shadow: 0 8px 6px -6px #777;
+    -moz-box-shadow: 0 8px 6px -6px #777;
+    box-shadow: 0 8px 6px -6px #777;  
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+
+    
+}
+
+/* --- hide iframe scroll bar ----*/
+::-webkit-scrollbar {
+display: none;
+}
+
+
+
+/*---- innerHome layout ------*/
+.w3-panel {
+    background-color: white;
+    border: 1px solid #777;
+    width: 100%;
+    margin-bottom: -5px;
+
+}
+
+.innermainContainer {
+    width: 100%;
+    min-height: 475px;
+    background-color: #E9E1E2;
+    padding-bottom: 10px;
+
+
+
+}
+        
+.mdl-layout__tab-bar {
+    background-color: pink;
+}
+
+.mdl-layout__tab {
+    background-color: red;
+    font-size: 15px;
+}
+
+
+
+/*--------css for nav --------------*/
+
+.nav{
+    border:1px solid #ccc;
+    border-bottom-width:1px;
+    list-style:none;
+    text-align:center;
+    background-color: #EEE8F2;
+    width: 400px;
+    height: 50px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.nav li{
+    display:inline;
+    margin: 0 auto;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color:black;
+    text-decoration: none!important;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav a:hover{
+    border-bottom: 1px solid #40225D;
+}
+
+#navDesignHours {
+    border-bottom: 2px solid #40225D;
+}
+
+#logo {
+    border-bottom-width:1px;
+    list-style:none;
+    text-align:center;
+    background-color: #40225D;
+    width: 400px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    margin-bottom: 0px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px; 
+}
+
+#logo li{
+    display:inline;
+    margin: 0 auto;
+}
+#logo a{
+    display:inline-block;
+    padding:10px;
+    color:white;
+    font-size:22px;
+    text-decoration: none;
+    margin-right: 230px;
+}
+
+/*--------css for libraries--------------*/
+
+
+#computer,#hours,#training {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+
+}
+
+#computer {
+    margin-top: 75px;
+
+}
+
+/*--------css computers available--------------*/
+
+
+
+#image{
+    margin-top:314px;
+    margin-left:-16px; 
+    position: absolute;
+    display:none;
+    width:403px;
+    height:228px;
+}
+#image2{
+    margin-top: -8px;
+    margin-left:-16px; 
+    width:403px;
+    height:337px;
+
+}
+#image3{
+    margin-top:-12px;
+    margin-left:-16px; 
+    position: absolute;
+    display:none;
+    width:403px;
+    height:228px;
+}
+
+#image4{
+    margin-top:-64px;
+    margin-left:-16px; 
+    position: absolute;
+    width:399px;
+    height:56px;
+}
+
+#box{
+    width:50px;
+    height:50px;
+    z-index: 100;
+    position: relative;
+    left: 216px;
+    top: -245px;
+    
+
+}
+#box2{
+    width:50px;
+    height:50px;
+    z-index: 100;
+    position: relative;
+    left: 15px;
+    top: -305px;
+    
+ 
+}
+#box3{
+    width:50px;
+    height:50px;
+    z-index: 100;
+    position: relative;
+    left: 216px;
+    top: -284px; 
+}
+
+.compAvail {
+    width: 100%;
+    padding: 0px;
+}
+
+.w3-container {
+    padding: 10px;
+}
+
+.headerOne {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    margin: 0px;
+    padding:5px;
+}
+
+.headerOne:hover {
+    background-color: #E5E5EC;
+    cursor: pointer;
+}
+
+.numbersAvail {
+    float: right;
+    margin-right: 35px;
+}
+
+/*--------------css - Drop Down For The Libraries ----------------*/
+.container {
+    width:100%;
+    border:black;
+}
+.container div {
+    width:100%;
+}
+.container .header {
+    background-color: white;
+    border: 1px solid #777;
+    width: 100%;
+    margin-bottom: -5px;
+    padding: 0px;
+}
+.w3-panel .content {
+    display: none;
+    padding : 5px;
+}
+
+.content {
+    height: 430px;
+}
+
+
+/*--------------css for innerHome HOURS ----------------*/
+.innerHomeTable {
+    width: 109%;
+    float: left;
+    padding: 0px;
+    margin: 0px; 
+    margin-left: -4.5%;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+
+
+.tableheaderStyle{
+     padding-top: 8px;
+     padding-bottom: 3px;
+    padding-left: 10px;
+    
+}
+
+.two4hours {
+    color: #3ED443;
+}
+
+#closedHours{
+    color:red;
+}
+.innerHomeTable tr {
+    border-bottom: 1px solid #ccc;
+}
+
+.innerHomeTable td {
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 0.8em;
+}
+
+
+.homeTDStyle{
+    color:blue;
+    font-size: 1.1em!important;
+}
+
+.innerHomeTDLib {
+    width: 40%;
+}
+
+.innerHomeTDTime {
+    width: 40%;
+}
+
+.innerHomeTDRemarks {
+    width: 20%;
+}
+
+.innerHomeTRstyle {
+    cursor: pointer;
+}
+
+.innerHomeTRstyle:hover {
+    background-color: #E5E5EC;
+}
+
+/*--------css library with levels--------------*/
+#floor{
+    margin-top:-4px;
+    margin-left:-8px; 
+    position: absolute;
+    height: 442px;
+    width: 382px;
+
+}
+
+#box4{
+    width:298px;
+    height:100px;
+    z-index: 100;
+    position: relative;
+    left: 13px;
+    top: 200px; 
+}
+
+#data{
+    margin-top:-75px;
+    margin-left:-2px; 
+    position: absolute;
+    height: 100px;
+    width: 382px;
+
+}
+
+#imagen{
+    height: 431px;
+    width: 382px;
+    display:none;
+}
+
+
+
+/*-------- end of css for innerHome HOURS --------------*/
+
+
+
+/*-- CSS for chartjs Grahp --------*/
+#mychartss {
+    width: 100%;
+    height: auto;
+    background-color: #355bb7;
+    padding: 0 10px 0 10px;
+    margin-top:-75px;
+}
+
+
+
+#bioCompAvailContent{
+    padding: 0;
+}
+
+
+#blsAllFloor{
+    width: 100%;
+    height: auto;
+}
+
+#bslAllfloorPic{
+    background-image: url('../Images/bslAllFloor1.jpg');
+    width:100%;
+    height: 180px;
+    background-color: blue;
+}
+
+#bslAllfloorPic2 {
+    background-image: url('../Images/bslAllFloor2.jpg');
+    width: 100%;
+    height: 250px;
+}
+
+#bslAllfloorClick1{
+    width: 290px;
+    height: 195px;
+    -webkit-clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+    cursor:pointer;
+    margin-top: -82%;
+    margin-left: 6%;   
+}
+#bslAllfloorClick1:hover {
+    background-color: #351e45;
+    opacity: 0.5;
+}
+#bslAllfloorClick2{
+    width: 328px;
+    height: 185px;
+    -webkit-clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+    cursor:pointer;
+    margin-top: -32%;
+    margin-left: 6%;   
+}
+#bslAllfloorClick2:hover {
+    background-color: #351e45;
+    opacity: 0.5;
+}
+#bslAllfloorClick3{
+    width: 323px;
+    height: 195px;
+    -webkit-clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+clip-path: polygon(67% 35%, 100% 56%, 36% 81%, 4% 58%);
+    cursor:pointer;
+    margin-top: -32%;
+    margin-left: 12%;   
+}
+#bslAllfloorClick3:hover {
+    background-color: #351e45;
+    opacity: 0.5;
+}
+
+
+#blsfloor3 {
+    width:100%;
+    height: auto; 
+    display:none;
+}
+#bslFloor3Image {
+    background-image: url('../Images/bsl_floor3.jpg');
+    width: 100%;
+    height: 430px;
+}
+
+
+#blsfloor2{
+     width:100%;
+    height: auto; 
+    display:none;
+}
+#bslFloor2Image {
+    background-image: url('../Images/bsl_floor2.jpg');
+    width: 100%;
+    height: 430px;
+}
+
+#blsfloor1{
+     width:100%;
+    height: auto; 
+    display:none;
+}
+#bslFloor1Image {
+    background-image: url('../Images/bsl_floor1.jpg');
+    width: 100%;
+    height: 430px;
+}
+
+
+#bslFloor1Image4 {
+    background-image: url('../Images/bslYellow.jpg');
+    width: 100%;
+    height: 210px;
+    display: none;
+}
+
+
+/*-- CSS for back button --------*/
+.backButton {
+    background-image: url('../Images/backbutton.jpg');
+    margin-left: 7px;
+
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    float: left;
+}
+
+.backButton:hover{
+    background-image: url('../Images/backbuttonHover.jpg');
+}
+
+
+/*-- BSL computer available for each floor indicator --*/
+.bslFloorIndicator {
+    width: 300px;
+    height: 30px;
+    position: absolute;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    margin-left: 140px;
+    margin-top: -15px;
+    font-weight: bold;
+
+}
+
+
+/*-- Cross and ticks for BSL Level 3--------*/
+.crossNticksImage {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+}
+
+#bslFloor3_tick1 {
+    background-image: url('../Images/tick.png');
+    margin-top: -187px;
+    margin-left: 190px;
+}
+#bslFloor3_tick2 {
+    background-image: url('../Images/tick.png');
+    margin-top: -185px;
+    margin-left: 225px;
+}
+#bslFloor3_tick3 {
+    background-image: url('../Images/cross.png');
+    margin-top: -175px;
+    margin-left: 192px;
+}
+#bslFloor3_tick4 {
+    background-image: url('../Images/cross.png');
+    margin-top: -172px;
+    margin-left: 228px;
+}
+#bslFloor3_tick5 {
+    background-image: url('../Images/cross.png');
+    margin-top: -163px;
+    margin-left: 198px;
+}
+#bslFloor3_tick6 {
+    background-image: url('../Images/cross.png');
+    margin-top: -157px;
+    margin-left: 231px;
+}
+#bslFloor3_tick7 {
+    background-image: url('../Images/cross.png');
+    margin-top: -149px;
+    margin-left: 199px;
+}
+#bslFloor3_tick8 {
+    background-image: url('../Images/cross.png');
+    margin-top: -100px;
+    margin-left: 290px;
+}
+#bslFloor3_tick9 {
+    background-image: url('../Images/cross.png');
+    margin-top: -113px;
+    margin-left: 290px;
+}
+#bslFloor3_tick10 {
+    background-image: url('../Images/cross.png');
+    margin-top: -128px;
+    margin-left: 290px;
+}
+#bslFloor3_tick11 {
+    background-image: url('../Images/cross.png');
+    margin-top: -140px;
+    margin-left: 290px;
+}
+#bslFloor3_tick12 {
+    background-image: url('../Images/cross.png');
+    margin-top: -151px;
+    margin-left: 290px;
+}
+#bslFloor3_tick13 {
+    background-image: url('../Images/cross.png');
+    margin-top: -162px;
+    margin-left: 290px;
+}
+#bslFloor3_tick14 {
+    background-image: url('../Images/cross.png');
+    margin-top: -174px;
+    margin-left: 290px;
+}
+#bslFloor3_tick15 {
+    background-image: url('../Images/cross.png');
+    margin-top: -190px;
+    margin-left: 290px;
+}
+#bslFloor3_tick16 {
+    background-image: url('../Images/cross.png');
+    margin-top: -203px;
+    margin-left: 290px;
+}
+#bslFloor3_tick17 {
+    background-image: url('../Images/cross.png');
+    margin-top: -217px;
+    margin-left: 290px;
+}
+#bslFloor3_tick18 {
+    background-image: url('../Images/cross.png');
+    margin-top: -232px;
+    margin-left: 290px;
+}
+#bslFloor3_tick19 {
+    background-image: url('../Images/cross.png');
+    margin-top: -251px;
+    margin-left: 290px;
+}
+#bslFloor3_tick20 {
+    background-image: url('../Images/cross.png');
+    margin-top: -265px;
+    margin-left: 290px;
+}
+#bslFloor3_tick21 {
+    background-image: url('../Images/cross.png');
+    margin-top: -278px;
+    margin-left: 290px;
+}
+#bslFloor3_tick22 {
+    background-image: url('../Images/cross.png');
+    margin-top: -293px;
+    margin-left: 290px;
+}
+#bslFloor3_tick23 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 257px;
+}
+#bslFloor3_tick24 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 239px;
+}
+#bslFloor3_tick25 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 226px;
+}
+#bslFloor3_tick26 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 209px;
+}
+#bslFloor3_tick27 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 196px;
+}
+#bslFloor3_tick28 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 179px;
+}
+#bslFloor3_tick29 {
+    background-image: url('../Images/cross.png');
+    margin-top: -389px;
+    margin-left: 166px;
+}
+#bslFloor3_tick30 {
+    background-image: url('../Images/tick.png');
+    margin-top: -389px;
+    margin-left: 151px;
+}
+#bslFloor3_tick31 {
+    background-image: url('../Images/tick.png');
+    margin-top: -389px;
+    margin-left: 138px;
+}
+#bslFloor3_tick32 {
+    background-image: url('../Images/tick.png');
+    margin-top: -389px;
+    margin-left: 124px;
+}
+#bslFloor3_tick33 {
+    background-image: url('../Images/cross.png');
+    margin-top: -359px;
+    margin-left: 128px;
+}
+
+/*-- Cross and ticks for BSL Level 3--------*/
+
+#bslFloor2_tick1{
+    background-image: url('../Images/tick.png');
+    margin-top: -264px;
+    margin-left: 168px;
+}
+
+#bslFloor2_tick2{
+    background-image: url('../Images/tick.png');
+    margin-top: -289px;
+    margin-left: 164px;
+}
+#bslFloor2_tick3{
+    background-image: url('../Images/tick.png');
+    margin-top: -299px;
+    margin-left: 161px;
+}
+#bslFloor2_tick4{
+    background-image: url('../Images/tick.png');
+    margin-top: -350px;
+    margin-left: 136px;
+}
+#bslFloor2_tick5{
+    background-image: url('../Images/tick.png');
+    margin-top: -360px;
+    margin-left: 136px;
+}
+#bslFloor2_tick6{
+    background-image: url('../Images/tick.png');
+    margin-top: -370px;
+    margin-left: 128px;
+}
+
+#bslFloor2_tick7{
+    background-image: url('../Images/tick.png');
+    margin-top: -387px;
+    margin-left: 145px;
+}
+#bslFloor2_tick8{
+    background-image: url('../Images/cross.png');
+    margin-top: -385px;
+    margin-left: 155px;
+}
+#bslFloor2_tick9{
+    background-image: url('../Images/cross.png');
+    margin-top: -387px;
+    margin-left: 167px;
+}
+#bslFloor2_tick10{
+    background-image: url('../Images/cross.png');
+    margin-top: -368px;
+    margin-left: 174px;
+}
+#bslFloor2_tick11{
+    background-image: url('../Images/cross.png');
+    margin-top: -360px;
+    margin-left: 166px;
+}
+#bslFloor2_tick12{
+    background-image: url('../Images/cross.png');
+    margin-top: -344px;
+    margin-left: 160px;
+}
