@@ -1,4 +1,4 @@
-# Stand Up Meting
+# Stand Up Meeting
 
 Andres Munoz
 
