@@ -1,14 +1,53 @@
 <!DOCTYPE html>
 <html>
-<title>UQ Library(Prototype)</title>
+<title>Look up New Friends</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
+<script src="js/list.js"></script>
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+</style>
+</head>
 <body>
 
 <div class="innermainContainer">
@@ -17,8 +56,19 @@
 
 		<div id="friends">	
 		<h2>Friends page</h2>
-			
-		</div>
+			<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+
+			<ul id="myUL">
+			  <li><a href="#">Adele</a></li>
+			  <li><a href="#">Agnes</a></li>
+
+			  <li><a href="#">Billy</a></li>
+			  <li><a href="#">Bob</a></li>
+
+			  <li><a href="#">Calvin</a></li>
+			  <li><a href="#">Christina</a></li>
+			  <li><a href="#">Cindy</a></li>
+			</ul>
 	</div>
 </div>
 
