@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/list.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
@@ -14,22 +15,33 @@
 </head>
 <body>
 	<div class="innermainContainer">
-		<div class="w3-container">
-			<div id="friends">	
-			<h3>Your Friends List</h3>			
-				<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names of your friends">
-				<ul id="myUL">
-				  <li><a href="#">Ada</a></li>
-				  <li><a href="#">Alex</a></li>
-				  <li><a href="#">Ben</a></li>
-				  <li><a href="#">Chris</a></li>
-				  <li><a href="#">Calvin</a></li>
-				  <li><a href="#">Christina</a></li>
-				  <li><a href="#">David</a></li>
-				  <li><a href="#">Diana</a></li>
-				</ul>
+		<!-- Sidebar -->
+		<div id="move" class="w3-sidebar w3-light-grey w3-bar-block" style="width:27%">
+			  <h3 class="w3-bar-item">Menu</h3>
+			  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+			  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+			  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+		</div>
+
+		<div style="margin-right:27%">
+			<div class="w3-container">
+				<div id="friends">	
+				<h3>Your Friends List</h3>			
+					<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names of your friends">
+					<ul id="myUL">
+					  <li><a href="#">Ada</a></li>
+					  <li><a href="#">Alex</a></li>
+					  <li><a href="#">Ben</a></li>
+					  <li><a href="#">Chris</a></li>
+					  <li><a href="#">Calvin</a></li>
+					  <li><a href="#">Christina</a></li>
+					  <li><a href="#">David</a></li>
+					  <li><a href="#">Diana</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
+		
 	</div>
 </body>
    
