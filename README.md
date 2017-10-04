@@ -50,6 +50,16 @@ There are a few apps such as Dashr and Sidekick which have the same intention of
 
 Strava is an application that is similar to what the TeamFit app is trying to achieve. It is focussed on adding a social network that is supportive and allows you to share your achievements and workout routes with your friends. Implementing strava and fitbit into the app could prove to be beneficial in creating a more fun and supportive environment for our app. 
 
+## Features
+
+There are two main features our team will be focus on: Challenge and The Searching Function
+
+### Search Friends Function
+
+There are lots of social media included the search friends function, such as Facebook and Instrgram. The search friends functions are preseting similar in all the social media. So a new idea of showing poeple in map view had came up in the fitness app.
+
+The idea of map view is showing users' profile and locations in the searhing system.
+
 ## Team Unfit
 The team is called Team Unfit and consist of 5 individuals:
 
