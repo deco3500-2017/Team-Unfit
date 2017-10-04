@@ -4,8 +4,9 @@
 Nipun
 
 FeiSn
-
+- Make the homepage and chat mockup better
 Kian
+- 
 
 Andres
 
