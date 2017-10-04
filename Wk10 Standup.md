@@ -1,19 +1,20 @@
 
 # Work been done since last stand up:
 
-Nipun
+Nipun:
 
-FeiSn
+FeiSn:
 - Make the homepage and chat mockups better
 - Do some academic search
 - Implement the homepage
 
-Kian
+
+Kian:
 - 
 
 Andres:
-- Worked on the user interface of the web based mockup.
-- Created a User Testing form in google docs to gather User Feedback.
+- Worked on the user interface of the web based prototype.
+- Created a User Testing form in google docs to gather user feedback.
 - Conducted some user testing showing the app to people and getting feedback with the survey.
 
 Alvin:
