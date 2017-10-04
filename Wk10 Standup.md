@@ -4,7 +4,10 @@
 Nipun
 
 FeiSn
-- Make the homepage and chat mockup better
+- Make the homepage and chat mockups better
+- Do some academic search
+- Implement the homepage
+
 Kian
 - 
 
