@@ -1,3 +1,14 @@
+# Evidence:
+Google form: https://docs.google.com/forms/d/e/1FAIpQLSfu-d_QC_OdgH15zFoz8IgI5n-96fFSSU-NuUk8AJ4Pv3FDog/viewform
+
+The main objective of our testing was to get inside on what people thought about the search friends feature. We wanted to determine the best functionality and interactivity to see if users will find friends easily in the map.
+
+When performing user testing with our mockups, most users found the interface easy to use and navigate. The main problem users had was with the search friends feature, as the current prototype have a map with locations. Users thought that it would this would raise privacy problem and it be much better if they could do the following things:
+- Change the map to a list of friends.
+- Make the location pin to be an area rather than the exact location.
+- Change the friends activity to an other window as this is to hidden and hard to access.
+
+Improving the user interface for the friends search and friends activity the proposed changes above is a current area of the app we will be focussing on.
 
 # Work been done since last stand up:
 
