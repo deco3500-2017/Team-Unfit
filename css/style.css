@@ -96,11 +96,18 @@ display: none;
     border-bottom: 2px solid #40225D;
 }
 
+#app {
+    background-image: url("logo/app logo.png");
+    width:50px;
+    height:50px;
+
+}
+
 #logo {
     border-bottom-width:1px;
     list-style:none;
-    text-align:center;
-    background-color: #40225D;
+    text-align:;
+    background-color: #1272A7;
     width: 400px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     margin-bottom: 0px;
