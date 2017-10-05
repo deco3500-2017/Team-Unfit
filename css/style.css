@@ -70,7 +70,7 @@ display: none;
     border-bottom-width:1px;
     list-style:none;
     text-align:center;
-    background-color: #EEE8F2;
+    background-color: #93BED7;
     width: 400px;
     height: 50px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
@@ -82,18 +82,18 @@ display: none;
 .nav a{
     display:inline-block;
     padding:10px;
-    color:black;
+    color:white;
     text-decoration: none!important;
     font-weight: bold;
     font-size: 18px;
 }
 
 .nav a:hover{
-    border-bottom: 1px solid #40225D;
+    border-bottom: 1px solid white;
 }
 
 #navDesignHours {
-    border-bottom: 2px solid #40225D;
+    border-bottom: 2px solid white;
 }
 
 #app {
@@ -108,11 +108,12 @@ display: none;
     list-style:none;
     text-align:;
     background-color: #1272A7;
+    height: 70px;
     width: 400px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     margin-bottom: 0px;
     border-top-right-radius: 3px;
-    border-top-left-radius: 3px; 
+    border-top-left-radius: 3px;
 }
 
 #logo li{
@@ -125,7 +126,9 @@ display: none;
     color:white;
     font-size:22px;
     text-decoration: none;
-    margin-right: 230px;
+    margin-left: -9px;
+    margin-top: -30px;
+    padding-top:50px;
 }
 
 /*--------css for libraries--------------*/

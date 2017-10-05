@@ -161,7 +161,7 @@ $(function(){
 /*-- hours --*/
 $('#navDesignHours').click(function() {
     $('#navDesignHours').css({
-        'border-bottom': '2px solid #40225D'
+        'border-bottom': '2px solid white'
         
     });
     $('#navDesignComputers').css({
@@ -176,7 +176,7 @@ $('#navDesignHours').click(function() {
 /*-- Computers --*/
 $('#navDesignComputers').click(function() {
     $('#navDesignComputers').css({
-        'border-bottom': '2px solid #40225D'
+        'border-bottom': '2px solid white'
         
     });
     $('#navDesignHours').css({
@@ -191,7 +191,7 @@ $('#navDesignComputers').click(function() {
 /*-- Training --*/
 $('#navDesignTraining').click(function() {
     $('#navDesignTraining').css({
-        'border-bottom': '2px solid #40225D'
+        'border-bottom': '2px solid white'
         
     });
     $('#navDesignHours').css({
