@@ -1,5 +1,4 @@
 # Evidence:
-Google form: https://docs.google.com/forms/d/e/1FAIpQLSfu-d_QC_OdgH15zFoz8IgI5n-96fFSSU-NuUk8AJ4Pv3FDog/viewform
 
 The main objective of our testing was to get inside on what people thought about the search friends feature. We wanted to determine the best functionality and interactivity to see if users will find friends easily in the map.
 
@@ -9,6 +8,8 @@ When performing user testing with our mockups, most users found the interface ea
 - Change the friends activity to an other window as this is to hidden and hard to access.
 
 Improving the user interface for the friends search and friends activity the proposed changes above is a current area of the app we will be focussing on.
+
+Google form: https://docs.google.com/forms/d/e/1FAIpQLSfu-d_QC_OdgH15zFoz8IgI5n-96fFSSU-NuUk8AJ4Pv3FDog/viewform
 
 # Work been done since last stand up:
 
