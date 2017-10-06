@@ -40,9 +40,9 @@ Alvin:
 Nipun
 
 FeiSn
--Finish the Homepage code
--Make the rest mockup better
--Do more academic research
+- Finish the Homepage code.
+- Make the rest mockup better.
+- Do more academic research.
 
 Kian
 
