@@ -32,7 +32,7 @@ Andres:
 Alvin:
 - Research on how others social media present "Search Friends" functions
 - Finished first mockup
-- Gather User testings feedbacks
+- Gather User testings feedbacks and have some changes on the "Search Friends" functions
 
 
 # Next Task:
@@ -52,5 +52,6 @@ Andres:
 - Gather further feedback from users on the feel and look of the prototype.
 
 Alvin:
-- Redesign the functions and present a better way rather using the map
-- Finish up the current featues prototype
+- Redesign the functions and present a better way instead of showing people locatins (due to privacy problems)
+- Finish up the current featues prototype to show how the "Search Friends" functions will present
+- Finish up the prototype for search friend funtion, either fully working or the interface (buttons, output, etc...)
