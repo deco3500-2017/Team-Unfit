@@ -58,7 +58,7 @@ There are two main features our team will be focus on: Challenge and The Searchi
 
 There are lots of social media included the search friends function, such as Facebook and Instrgram. The search friends functions are preseting similar in all the social media. So a new idea of showing poeple in map view had came up in the fitness app.
 
-The idea of map view is showing users' profile and locations in the searhing system.
+The idea of map view is showing users' profile and locations in the searhing system. Not exact distances will be shown due to the privacy problems. Round up distances might be shown base on user's current location.
 
 ## Team Unfit
 The team is called Team Unfit and consist of 5 individuals:
