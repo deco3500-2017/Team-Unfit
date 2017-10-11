@@ -22,6 +22,9 @@ FeiSn:
 
 
 Kian:
+- Redesigned workout finder page
+- Tested new design with some past testers and new testers
+- Started building the html version
 
 
 Andres:
@@ -44,7 +47,9 @@ FeiSn
 - Make the rest mockup better.
 - Do more academic research.
 
-Kian
+Kian:
+- Finish building workout finder page
+- Look into creating/designing a "Workout Now" feature. (Lets users see who wants to do some form of exercise at that very moment).
 
 Andres:
 - Implement features to the prototype based on previous user testing feedback.
