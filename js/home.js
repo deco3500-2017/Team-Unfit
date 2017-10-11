@@ -158,7 +158,7 @@ $(function(){
 --*/
 
 /*------------------------- on NAV click -----------------------------*/
-/*-- hours --*/
+/*-- Home --*/
 $('#navDesignHours').click(function() {
     $('#navDesignHours').css({
         'border-bottom': '2px solid white'
@@ -172,8 +172,12 @@ $('#navDesignHours').click(function() {
         'border-bottom': 'none'
         
     });
+    $('#navDesignWorkout').css({
+        'border-bottom': 'none'
+        
+    });
 });
-/*-- Computers --*/
+/*-- Friends --*/
 $('#navDesignComputers').click(function() {
     $('#navDesignComputers').css({
         'border-bottom': '2px solid white'
@@ -187,8 +191,12 @@ $('#navDesignComputers').click(function() {
         'border-bottom': 'none'
         
     });
+    $('#navDesignWorkout').css({
+        'border-bottom': 'none'
+        
+    });
 });
-/*-- Training --*/
+/*-- Challenge --*/
 $('#navDesignTraining').click(function() {
     $('#navDesignTraining').css({
         'border-bottom': '2px solid white'
@@ -199,6 +207,30 @@ $('#navDesignTraining').click(function() {
         
     });
     $('#navDesignComputers').css({
+        'border-bottom': 'none'
+        
+    });
+    $('#navDesignWorkout').css({
+        'border-bottom': 'none'
+        
+    });
+});
+
+/*-- Workout --*/
+$('#navDesignWorkout').click(function() {
+    $('#navDesignWorkout').css({
+        'border-bottom': '2px solid white'
+        
+    });
+    $('#navDesignHours').css({
+        'border-bottom': 'none'
+        
+    });
+    $('#navDesignComputers').css({
+        'border-bottom': 'none'
+        
+    });
+    $('#navDesignTraining').css({
         'border-bottom': 'none'
         
     });
