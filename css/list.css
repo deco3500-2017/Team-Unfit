@@ -19,18 +19,19 @@
 }
 
 #myUL1 li a {
-  border: 1px solid #ddd;
-  margin-top: 15px; /* Prevent double borders */
-  background-color: #f6f6f6;
-  padding: 87px;
+  border-radius: 5px;
+  margin-top: 6px; /* Prevent double borders */
+  background-color: #E0E0E0;
+  padding: 30px;
   text-decoration: none;
   font-size: 18px;
   color: black;
   display: block
+
 }
 
 #myUL1 li a:hover:not(.header) {
-  background-color: #eee;
+  background-color: #0288D1;
 }
 
 #myUL {
@@ -51,5 +52,5 @@
 }
 
 #myUL li a:hover:not(.header) {
-  background-color: #eee;
+  background-color: #0288D1;
 }
