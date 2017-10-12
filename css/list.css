@@ -27,8 +27,6 @@
   font-size: 18px;
   color: black;
   display: block;
-  font-family: 'Lato', sans-serif;
-
 }
 
 #myUL1 li a:hover:not(.header) {
