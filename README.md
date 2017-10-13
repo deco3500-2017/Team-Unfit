@@ -52,7 +52,7 @@ Strava is an application that is similar to what the TeamFit app is trying to ac
 
 ## Features
 
-There are two main features our team will be focus on: Challenge and The Searching Function
+There are three main features our team will be focus on: Challenge, Workout and The Searching Function
 
 ### Search Friends Function
 
