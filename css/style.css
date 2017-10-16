@@ -26,6 +26,131 @@
     
 }
 
+/* Dropdown notification CSS */
+
+#notification_li
+{
+position:relative
+}
+
+#notificationContainer 
+{
+background-color: #fff;
+border: 1px solid rgba(100, 100, 100, .4);
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: absolute;
+top: 28px;
+margin-left: -40px;
+width: 322px;
+height: 293px;
+z-index: 30px;
+display: none; // Enable this after jquery implementation 
+}
+
+// Popup Arrow
+#notificationLink a:before {
+content: "";
+display: block;
+position: absolute;
+width: 0;
+height: 0;
+color: transparent;
+border: 10px solid black;
+border-color: transparent transparent white;
+margin-top: 18px;
+margin-left: 1px;
+}
+
+#notificationLink:before {
+content: "";
+display: none;
+position: absolute;
+width: 0;
+height: 0;
+color: transparent;
+border: 10px solid black;
+border-color: transparent transparent white;
+margin-top: 18px;
+margin-left: 1px;
+}
+#arrow {
+content: "";
+display: none;
+position: absolute;
+width: 0;
+height: 0;
+color: transparent;
+border: 10px solid black;
+border-color: transparent transparent white;
+margin-top: 18px;
+margin-left: 1px;
+}
+
+
+#notificationTitle
+{
+font-weight: bold;
+padding: 8px;
+font-size: 13px;
+background-color: #ffffff;
+z-index: 1000;
+width: 319px;
+border-bottom: 1px solid #dddddd;
+}
+
+#notificationsBody
+{
+padding: 33px 0px 0px 0px !important;
+min-height:300px;
+}
+
+#notification_count 
+{
+padding: 3px 7px 3px 7px;
+background: #cc0000;
+color: #ffffff;
+font-weight: bold;
+margin-left: 15px;
+border-radius: 9px;
+-moz-border-radius: 9px; 
+-webkit-border-radius: 9px;
+position: absolute;
+margin-top: 21px;
+font-size: 11px;
+}
+
+
+.notifications {
+   min-width:420px; 
+}
+  
+.notifications-wrapper {
+     overflow:auto;
+      max-height:250px;
+}
+
+.notifications a.content {
+ text-decoration:none;
+ background:#ccc;
+
+}
+    
+.notification-item {
+ padding:10px;
+ margin:5px;
+ background:#ccc;
+ border-radius:4px;
+}
+
+/* --- Hover temporary disabled 
+.notification-item:hover:not(.header) {
+  background-color: #0288D1;
+}
+----*/
+
+
+
 /* --- hide iframe scroll bar ----*/
 ::-webkit-scrollbar {
 display: none;
