@@ -16,6 +16,7 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
+ font-family: 'Philosopher', sans-serif;
 }
 
 #myUL1 li a {
@@ -27,16 +28,20 @@
   font-size: 18px;
   color: black;
   display: block;
+  font-family: 'Philosopher', sans-serif;
+
 }
 
 #myUL1 li a:hover:not(.header) {
   background-color: #0288D1;
+  color:white;
 }
 
 #myUL {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  font-family: 'Philosopher', sans-serif;
 }
 
 #myUL li a {
@@ -47,9 +52,12 @@
   text-decoration: none;
   font-size: 18px;
   color: black;
-  display: block
+  display: block;
+  font-family: 'Philosopher', sans-serif;
+  
 }
 
 #myUL li a:hover:not(.header) {
   background-color: #0288D1;
+  color:white;
 }
