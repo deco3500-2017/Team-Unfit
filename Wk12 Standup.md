@@ -21,9 +21,9 @@ Andres:
 - Standarized the overall design of the whole prototype.
 
 Alvin:
-- 
-- 
-- 
+- Redesign the map due to the privacy problems
+- Create sample datas for the searh friends results 
+- Change the buttons that fit mobile application
 
 
 # Next Task:
@@ -49,7 +49,8 @@ Andres:
 - Work on feedback receive today of improving the home page and overall desing.
 
 Alvin:
--
--
--
+- Design posters
+- Collect feedbacks for the final prototype 
+- fix up the prototype and contents 
+
 
