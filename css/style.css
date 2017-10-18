@@ -26,6 +26,10 @@
     
 }
 
+#home {
+    margin-left: -16px;
+
+}
 /* Dropdown notification CSS */
 
 #notification_li
