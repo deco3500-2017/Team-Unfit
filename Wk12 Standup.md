@@ -13,9 +13,9 @@ Nipun:
 - In the challenge page people can challenge others for money contribution.
 
 FeiSn:
--Work on the design of the homepage.
--Finish the chating page in the prototype.
--Find some suitable icons for the homepage buttons.
+- Work on the design of the homepage.
+- Finish the chating page in the prototype.
+- Find some suitable icons for the homepage buttons.
 
 
 Kian:
