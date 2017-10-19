@@ -2,6 +2,7 @@
 Team Unfit Proposal 
 
 Link to the low fidelity digital prototype: https://marvelapp.com/6b2g7a4 
+Link to the app: https://deco3500-2017.github.io/Team-Unfit/index.html
 
 ## Introduction
 Exercising can sometimes be a challenge for people as they struggle to stay motivated. People usually find fitness boring as they do not  like working out by themselves, working with a group of people can be much more motivating and fun, this can maintain a person more engaged and inspired to exercise. Team Fit aims to solve the problem of training long and boring sessions alone. Users can easily use the phone app to find a community to exercise along with, to achieve their personal best and goals. They are able to find training sessions based on the training category or their location. A session contains information about the date it is scheduled for, the location/location images and other users attending. 
