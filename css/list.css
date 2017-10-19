@@ -14,7 +14,7 @@
 }
 #myUL1 {
   list-style-type: none;
-  padding: 0;
+  padding: 9px;
   margin: 0;
  font-family: 'Philosopher', sans-serif;
 }

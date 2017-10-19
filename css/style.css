@@ -208,7 +208,7 @@ display: none;
     width: 400px;
     height: 50px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    position: absolute;
+    position: fixed;
     top: 540px;
 }
 .nav li{
