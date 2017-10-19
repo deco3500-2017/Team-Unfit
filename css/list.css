@@ -61,3 +61,114 @@
   background-color: #0288D1;
   color:white;
 }
+
+#myUL2 {
+  list-style-type: none;
+  padding: 9px;
+  margin: 0;
+ font-family: 'Philosopher', sans-serif;
+}
+
+#myUL2 li a {
+  border-radius: 5px;
+  margin-top: -170px; /* Prevent double borders */
+  margin-left: 181px;
+  background-color: #E0E0E0;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block;
+  width: 168px;
+  font-family: 'Philosopher', sans-serif;
+
+}
+
+#myUL2 li a:hover:not(.header) {
+  background-color: #0288D1;
+  color:white;
+}
+
+
+
+
+#myUL3 {
+  list-style-type: none;
+  padding: 9px;
+  margin: 0;
+ font-family: 'Philosopher', sans-serif;
+}
+
+#myUL3 li a {
+  border-radius: 5px;
+  margin-top: 6px; /* Prevent double borders */
+  background-color: #E0E0E0;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block;
+  width: 168px;
+  font-family: 'Philosopher', sans-serif;
+
+}
+
+#myUL3 li a:hover:not(.header) {
+  background-color: #0288D1;
+  color:white;
+}
+
+#myUL4 {
+  list-style-type: none;
+  padding: 9px;
+  margin: 0;
+ font-family: 'Philosopher', sans-serif;
+}
+
+#myUL4 li a {
+  border-radius: 5px;
+  margin-top: -21px; /* Prevent double borders */
+  background-color: #E0E0E0;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block;
+  width: 168px;
+  font-family: 'Philosopher', sans-serif;
+
+}
+
+#myUL4 li a:hover:not(.header) {
+  background-color: #0288D1;
+  color:white;
+}
+
+#myUL5 {
+  list-style-type: none;
+  padding: 9px;
+  margin: 0;
+ font-family: 'Philosopher', sans-serif;
+}
+
+#myUL5 li a {
+  border-radius: 5px;
+  margin-top: -169px; /* Prevent double borders */
+  margin-left: 181px;
+  background-color: #E0E0E0;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block;
+  width: 168px;
+  font-family: 'Philosopher', sans-serif;
+
+}
+
+#myUL5 li a:hover:not(.header) {
+  background-color: #0288D1;
+  color:white;
+}
+
+
