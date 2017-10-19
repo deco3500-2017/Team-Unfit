@@ -10,9 +10,9 @@
 Nipun:
 
 FeiSn:
--  
-- 
--
+-Work on the design of the homepage.  
+-Finish the chating page in the prototype. 
+-Find some suitable icons for the homepage buttons.
 
 
 Kian:
@@ -41,9 +41,9 @@ Nipun
 -
 
 FeiSn
-- 
-- 
-- 
+-Start doing the PPT for showcause. 
+-Change some elements in the homepage. 
+-Finish the profile page. 
 
 Kian:
 -
