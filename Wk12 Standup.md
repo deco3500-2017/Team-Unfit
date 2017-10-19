@@ -13,15 +13,9 @@ Nipun:
 - In the challenge page people can challenge others for money contribution.
 
 FeiSn:
-<<<<<<< HEAD
--  Worked on the design of the homepage.
--  Finish the chating page in the prototype.
--  Find some suitable icons for the homepage buttons.
-=======
 -Work on the design of the homepage.  
 -Finish the chating page in the prototype. 
 -Find some suitable icons for the homepage buttons.
->>>>>>> 635bd627c92d6345afca6a1491e05dd913bb05ec
 
 
 Kian:
@@ -50,15 +44,9 @@ Nipun
 - Conduct more user testings and put this prototype in front of users.
 
 FeiSn
-<<<<<<< HEAD
 - Start doing the PPT for showcase
 - Change some elements in the homepage.
 - Finish the profile page.
-=======
--Start doing the PPT for showcause. 
--Change some elements in the homepage. 
--Finish the profile page. 
->>>>>>> 635bd627c92d6345afca6a1491e05dd913bb05ec
 
 Kian:
 - Improve the work out page.
