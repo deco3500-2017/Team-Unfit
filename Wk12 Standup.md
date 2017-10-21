@@ -40,7 +40,7 @@ Alvin:
 
 Nipun
 - Make more Chanllenges available.
-- Make posible challenge othe people.
+- Make posible challenge other people.
 - Conduct more user testings and put this prototype in front of users.
 
 FeiSn
