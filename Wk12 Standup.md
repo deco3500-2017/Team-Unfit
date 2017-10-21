@@ -14,7 +14,7 @@ Nipun:
 
 FeiSn:
 - Work on the design of the homepage.
-- Finish the chating page in the prototype.
+- Finish the chatting page in the prototype.
 - Find some suitable icons for the homepage buttons.
 
 
@@ -26,21 +26,21 @@ Kian:
 
 Andres:
 - Work on the functionality and design of notifications feature.
-- Changed overall color scheme of the prototype.
+- Changed overall colour scheme of the prototype.
 - Find a suitable font for all the text elements.
-- Standarized the overall design of the whole prototype.
+- Standardized the overall design of the whole prototype.
 
 Alvin:
 - Redesign the map due to the privacy problems
-- Create sample datas for the searh friends results 
+- Create sample data for the search friend's results 
 - Change the buttons that fit mobile application
 
 
 # Next Task:
 
 Nipun
-- Make more Chanllenges available.
-- Make posible challenge other people.
+- Make more Challenges available.
+- Make possible challenge other people.
 - Conduct more user testings and put this prototype in front of users.
 
 FeiSn
@@ -56,7 +56,7 @@ Andres:
 - Work on the promotional material.
 - Refine the prototype
 - User testing.
-- Work on feedback receive today of improving the home page and overall desing.
+- Work on feedback receive today of improving the home page and overall design.
 
 Alvin:
 - Design posters
