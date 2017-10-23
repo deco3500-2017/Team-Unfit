@@ -105,7 +105,7 @@ display:block;
 /* ----- Home/index css -------*/
 #homeContainer {
     background-color: yellow;
-    height: 617px;
+    height: 640px;
     max-width:400px;
     margin: 0 auto;
     margin-top: 40px;
@@ -312,7 +312,7 @@ display: none;
     height: 50px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     position: absolute;
-    top: 726px;
+    top: 745px;
 }
 .nav li{
     display:inline;
