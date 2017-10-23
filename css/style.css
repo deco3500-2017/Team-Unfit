@@ -311,8 +311,8 @@ display: none;
     width: 400px;
     height: 50px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    margin-left: 520px;
-    margin-top: 71px;
+    position: absolute;
+    top: 750px;
 }
 .nav li{
     display:inline;
