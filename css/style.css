@@ -6,7 +6,7 @@ display:block;
 }
 
 #contain {
-    width:100%;
+    width: 366px;
     height: 100%
 }
 /*Slideshow scrolling bar*/ 
@@ -67,7 +67,7 @@ display:block;
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 500px) {
     #slidefeatures .sp-layer {
         font-size: 12px;
     }
@@ -77,7 +77,7 @@ display:block;
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 53px) {
     #slidefeatures .sp-thumbnail {
         text-align: center;
     }
