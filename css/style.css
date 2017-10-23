@@ -63,7 +63,7 @@ display:block;
     color: #333;
 }
 
-@media (max-width: 366px) {
+@media (max-width: 666px) {
     #slidefeatures .hide-medium-screen {
         display: none;
     }
@@ -79,7 +79,7 @@ display:block;
     }
 }
 
-@media (max-width: 53px) {
+@media (max-width: 500px) {
     #slidefeatures .sp-thumbnail {
         text-align: center;
     }
@@ -311,8 +311,8 @@ display: none;
     width: 400px;
     height: 50px;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    position: absolute;
-    top: 651px;
+    margin-left: 520px;
+    margin-top: 71px;
 }
 .nav li{
     display:inline;
