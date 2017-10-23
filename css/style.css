@@ -94,7 +94,7 @@
 #homeContainer {
     background-color: yellow;
     height: 480px;
-    width:400px;
+    max-width:400px;
     margin: 0 auto;
     margin-top: 40px;
 
@@ -269,7 +269,7 @@ display: none;
 
 .innermainContainer {
     width: 100%;
-    min-height: 475px;
+    max-height: 475px;
     background-color:#AEAEAE;
     padding-bottom: 10px;
 
