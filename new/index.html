@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Team Unfit</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!--Link to bootstrap elements -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<!--This is the Font awesome links for the icons used -->
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!--Jquery and bunddle links -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.min.1.9.js"></script>
+	<!--This is the google fonts link -->
+	<link href="https://fonts.googleapis.com/css?family=Katibeh|Philosopher|Poiret+One" rel="stylesheet">
+</head>
+	<body>
+	<div id="homeContainer">
+		<nav>
+			<ul id="logo">
+
+				<li id="notification_li">
+					<span id="notification_count">4</span>
+					
+					<a id="notificationLink" role="button" data-toggle="dropdown" href="#">
+					<div id="arrow"></div>
+					<i class="fa fa-bell" aria-hidden="true" style="color: white;"></i>
+					</a>
+
+					<div id="notificationContainer">
+					<div id="notificationTitle">Work Out Now Notifications</div>
+					<div class="notifications-wrapper">
+					       <div class="notification-item">
+					        <h4 class="item-title">Challenge - 3 hours ago</h4>
+					        <p class="item-info">Matt challenge you to do 50 push ups</p>
+					      </div>
+
+					      <div class="notification-item">
+					        <h4 class="item-title">Work Out - 4 hours ago</h4>
+					        <p class="item-info">There's a workout near your location</p>
+					      </div>
+
+					      <div class="notification-item">
+					        <h4 class="item-title">Friends - 1 day ago</h4>
+					        <p class="item-info">Linda match you as her exercise buddy</p>
+					      </div>
+
+					      <div class="notification-item">
+					        <h4 class="item-title">Challenge - 2 days ago</h4>
+					        <p class="item-info">Mark challenge you to a 5km run</p>
+					      </div>
+					</div>
+					</div>
+				</li>
+
+				<li>
+					
+					<img src="logo/app logo.png" alt="Team Fit Logo" style="width:70px;height:70px;margin-left: 41px;margin-top: -21px;"> 
+					<a href="index.html" style="font-family: 'Philosopher', sans-serif;">Team Fit</a>
+				</li>
+				<!-- This is the profile icon, waiting for the profile page to link it-->
+				<a href="#"> <i class="fa fa-user-circle fa-2x" aria-hidden="true" style="color: white;margin-left: 39px;margin-top: 12px;"></i></a>
+			</ul>
+			
+			<ul class="nav">
+				<li id="navDesignHours"><a href="innerhome.html" target="showContent" id="navHours" class="navAhref"><i class="fa fa-home"></i></a></li>
+				<li id="navDesignComputers"><a href="friends.html" target="showContent" id="navComputer" class="navAhref"><i class="fa fa-user-plus" aria-hidden="true"></i></a></li>
+				<li id="navDesignTraining"><a href="innerHomeTraining.html" target="showContent" id="navTraining" class="navAhref"><i class="fa fa-clock-o" aria-hidden="true"></i></a></li>
+				<li id="navDesignWorkout"><a href="innerHomeWorkout.html" target="showContent" id="navWorkout" class="navAhref"><i class="fa fa-bicycle" aria-hidden="true"></i></a></li>
+
+			</ul>
+		</nav>
+		<iframe id="mainFrame"  name="showContent" src="innerhome.html" frameBorder="0">
+	  		<p>Your browser does not support iframes.</p>
+		</iframe> 
+	</div>
+	</body>
+
+<!-- java script for div control  -->
+<script type="text/javascript" src="js/home.js"></script>
+<script type="text/javascript" src="js/list.js"></script>
+
+</html>
