@@ -32,7 +32,16 @@
 
 }
 
+#myUL1 h2 {
+font-family: 'Philosopher', sans-serif;
+  
+}
 #myUL1 li a:hover:not(.header) {
+  background-color: #0288D1;
+  color:white;
+}
+
+#myUL1 span:hover:not(.header) {
   background-color: #0288D1;
   color:white;
 }
