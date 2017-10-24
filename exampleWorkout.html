@@ -6,33 +6,67 @@
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/list.css">
+	<link rel="stylesheet" href="css/workoutList.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
 	<script src="js/list.js"></script>
 	<script type="text/javascript" src="js/home.js"></script>
+	<script type="text/javascript" src="js/workout.js"></script>
 	<!--This is the Font awesome links for the icons used -->
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!--This is the google fonts link -->
 	<link href="https://fonts.googleapis.com/css?family=Katibeh|Philosopher|Poiret+One" rel="stylesheet">
+
+	<style>
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
 </head>
 <body>
 	<div class="innermainContainer">
 		<div class="w3-container">
 			<div id="workout">
-				<form>
-					<input type="button" value="Back" onclick="history.go(-1)">
-					<ul>
-						<h4><center>Example Session</center></h2>
+
+					<i id="back" class="fa fa-arrow-circle-o-left fa-3x" aria-hidden="true" onclick="history.go(-1)"></i>
+					<ul id="myUL1">
+							<h2><center>Example Workout Session<center></h2>
+							<h5>In this workout you can expect to be doing a series of drills, including pushups, situps, burpies and bodyweight squats.
+							We will then be doing shuttle runs and finish with a 30min warm down which includes a lot of flexibility work. This session will be tough
+						but also great for beginners. Come along and invite your friends!</h5>
+							<h4>Location</h4>
+							<p>Musgrave Park - South Brisbane</p>
+							<div id="map"></div>
+							 <script>
+								 function initMap() {
+									 var southbrisbane = {lat: -27.47842, lng: 153.0162};
+									 var map = new google.maps.Map(document.getElementById('map'), {
+										 zoom: 13,
+										 center: southbrisbane
+									 });
+									 var marker = new google.maps.Marker({
+										 position: southbrisbane,
+										 map: map
+									 });
+								 }
+							 </script>
+							 <script async defer
+							 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAoYH-x7k79T0-39tjDZ7mI7vyJPcvqq8E&callback=initMap">
+							 </script>
+							<h4>People Going</h4>
+							<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+							<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+							<p>2 of your Friends and 12 other people are attending this session.</p>
+							<br>
+								<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+								<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
 					</ul>
-				</form>
-				<h2>Title</h2>
-				<h4>Description</h4>
-				<h4>Location</h4>
-				<h4>People Going</h4>
-				<h4>Other info etc..</h4>
+				
+
 				</div>
 			</div>
 		</div>

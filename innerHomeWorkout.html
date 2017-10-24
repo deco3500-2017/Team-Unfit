@@ -6,12 +6,17 @@
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/list.css">
+	<link rel="stylesheet" href="css/workoutList.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
 	<script src="js/list.js"></script>
 	<script type="text/javascript" src="js/home.js"></script>
+	<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAoYH-x7k79T0-39tjDZ7mI7vyJPcvqq8E&callback=initialize">
+  </script>
+	<script type="text/javascript" src="js/workout.js"></script>
 	<!--This is the Font awesome links for the icons used -->
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -25,15 +30,28 @@
 				<form>
 					<i id="back" class="fa fa-arrow-circle-o-left fa-3x" aria-hidden="true" onclick="history.go(-1)"></i>
 					<ul id="myUL1">
-						<li><a href="innerHomeWorkout.html"><center>Map View</center></a></li>
-						<li><a href="innerHomeWorkoutList.html"><center>List View</center></a></li>
+						<center>
+						<li style="display:inline-block;"><a href="innerHomeWorkout.html"><center>Map View</center></a></li>
+						<li style="display:inline-block;" class="btm-margin"><a href="innerHomeWorkoutList.html"><center>List View</center></a></li>
+					</center>
+						<li>
+							<div class="styled-select blue semi-square">
+							<select id="type" onchange="filterMarkers(this.value);">
+							    <option value="">All Categories</option>
+							    <option value="sports">Sports</option>
+							    <option value="cardio">Cardio</option>
+							    <option value="strength">Strength</option>
+							</select>
+							</div>
+						</li>
+						<li>
+							<div id="map-canvas"></div>
+						</li>
+
 					</ul>
 				</form>
-				<ul id="myUL1">
-					  <li>
-						<iframe src="https://www.google.com/maps/d/embed?mid=1YMvD0Ns7xROG6YvRlINHm0u9OPY" width="350" height="450"></iframe>
-					  </li>
-					 </ul>
+
+
 				</div>
 			</div>
 		</div>
