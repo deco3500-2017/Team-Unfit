@@ -14,6 +14,8 @@ Google form: https://docs.google.com/forms/d/e/1FAIpQLSfu-d_QC_OdgH15zFoz8IgI5n-
 # Work been done since last stand up:
 
 Nipun:
+- Start to create zone for our prototype
+- Work on the prototype
 
 FeiSn:
 - Make the homepage and chat mockups better
@@ -40,7 +42,9 @@ Alvin:
 
 # Next Task:
 
-Nipun
+Nipun:
+- Work on the challenge page
+- In the challenge page people can challenge others for money contribution.
 
 FeiSn
 - Finish the Homepage code.
