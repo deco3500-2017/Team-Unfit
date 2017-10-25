@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<title>Team Unfit</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="css/style.css">
+
+<!-- Bootstrap Stylesheet -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+<!-- Bootstrap JS, JQuery& Popper -->
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
+
+<link rel="stylesheet" href="css/list.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
+<script type="text/javascript" src="js/list.js"></script
+<script type="text/javascript" src="js/home.js"></script>
+
+<body>
+
+<div class="innermainContainer">
+
+<div class="w3-container">
+
+
+	<div id="challenge">
+	
+
+		<div>
+			<div class="w3-container">
+				<div id="challenges">
+					<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+					<ul id="myUL">
+					  <li><a href="#">Cycling #1 <br> <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">EXPLORE</button></a></li>
+					  <li><a href="#">Basketball #2 <small>Cycling</small></a></li>
+					  <li><a href="#">Soccer #3 <small>Cycling</small></a></li>
+					  <li><a href="#">Football #4 <small>Basketball</small></a></li>
+					  <li><a href="#">Rugby #5 <small>Basketball</small></a></li>
+					  <li><a href="#">Running #6 <small>Basketball</small></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+  
+		</div>
+</div>
+
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  		<div class="modal-dialog" role="document">
+    	<div class="modal-content">
+	      <div class="modal-header" id="heading">
+	        <h4 class="modal-title" id="exampleModalLabel">CYCLING #1</h4>
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true">&times;</span>
+	        </button>	
+	      </div>	
+
+      <div class="modal-body" data-spy="scroll" data-target="#heading" data-offset="0">
+
+      	<h5>Challenge Details</h5>
+
+      	<p><b>Challenger:</b> @namarasinghe</p>
+      	<p><b>Activity:</b> 3km (Quickest Time)</p>
+      	<p><b>Running Until:</b> 28th October 2017</p>
+
+      	<hr>
+
+      	<h5>Personal Time</h5>
+
+      	<!-- Username -->
+      	<div class="input-group personalDetails">
+		  <span class="input-group-addon" id="basic-addon1">@</span>
+		  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+		</div>
+
+		<!-- Contribution -->
+		<div class="input-group personalDetails">
+		  <span class="input-group-addon">$</span>
+		  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="Contribution (to the nearest dollar)">
+		  <span class="input-group-addon">.00</span>
+		</div>
+
+		<!-- File Upload -->
+        <form>
+  			<div class="form-group personalDetails">
+   				<label for="FormControlFile1">Example file input</label>
+    			<input type="file" class="form-control-file" id="FormControlFile1">
+  			</div>
+		</form>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Upload</button>
+      </div>
+    </div>
+  </div>
+	</div>
+
+</body>
+
+<script type="text/javascript" src="js/home.js"></script>
+   
+</html>
