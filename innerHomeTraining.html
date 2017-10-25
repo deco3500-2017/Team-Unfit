@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="css/list.css">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
-<script type="text/javascript" src="js/list.js"></script>
+<script type="text/javascript" src="js/list.js"></script
 <script type="text/javascript" src="js/home.js"></script>
 
 <body>
@@ -37,14 +37,17 @@
 		<div>
 			<div class="w3-container">
 				<div id="challenges">
-					<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+				<h3>Challenge List</h3>
+					<div class="input-group searchBar">
+			  			<span class="input-group-addon" id="basic-addon1">Search</span>
+			  			<input type="text" class="form-control" id="myInput" onkeyup="myFunction()" placeholder="Type activity or username">
+					</div>
+	
 					<ul id="myUL">
-					  <li><a href="#">Cycling #1 <br> <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">EXPLORE</button></a></li>
-					  <li><a href="#">Basketball #2 <small>Cycling</small></a></li>
-					  <li><a href="#">Soccer #3 <small>Cycling</small></a></li>
-					  <li><a href="#">Football #4 <small>Basketball</small></a></li>
-					  <li><a href="#">Rugby #5 <small>Basketball</small></a></li>
-					  <li><a href="#">Running #6 <small>Basketball</small></a></li>
+					  <li><a href="#"><b>Basketball <small>Author: @johndoe12</small> </b><p>Prize Pool: $50</p></a></li>
+					  <li><a href="#">Soccer <small>Author: @namarasinghe</small> <p><b>Prize Pool:</b>$140</p></a></li>
+					  <li><a href="#">Football <small>Author: @dantheman</small> <p><b>Prize Pool:</b>$5</p></a></li>
+					  <li><a href="#">Rugby <small>Author: @harrypothead45</small> <p><b>Prize Pool:</b>$55</p></a></li>
 					</ul>
 				</div>
 			</div>
