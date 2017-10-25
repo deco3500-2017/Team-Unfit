@@ -5,8 +5,10 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 .wrap {
-	width:60%;
+	width:228%;
 	margin:0 auto;
+    position: absolute;
+    left: -243px;
 }
 h1,h2,h3,h4{
 	margin:0;	

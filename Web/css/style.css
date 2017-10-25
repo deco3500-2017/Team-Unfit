@@ -96,7 +96,7 @@ display:block;
 
 /* ----- Back Button -------*/
 #back:hover {
-    color: white;
+    color: #5eb8ff;
 
 }
 
@@ -282,7 +282,7 @@ display: none;
 .innermainContainer {
     width: 100%;
     min-height: 480px;
-    background-color:#AEAEAE;
+    background-color:white;
     padding-bottom: 10px;
 }
         

@@ -24,22 +24,104 @@
 	<div class="innermainContainer">
 		<div class="w3-container">
 			<div id="workout">
+				<i id="back" class="fa fa-arrow-circle-o-left fa-3x" aria-hidden="true" onclick="history.go(-1)"></i>
 				<ul id="myUL1">
-					<li><a href="innerHomeWorkout.html"><center>Map View</center></a></li>
-						<li><a href="innerHomeWorkoutList.html"><center>List View</center></a></li>
-				</ul>
-				<h2>Sessions Near Me</h2>
-					<div id="myDIV" class="header">
-					  <h2>Create a Session</h2>
-					  <input type="text" id="myInput" placeholder="Session Name">
-					  <span onclick="newElement()" class="addBtn">Add Session</span>
-					</div>
+					<center>
+					<li style="display:inline-block;"><a href="innerHomeWorkout.html"><center>Map View</center></a></li>
+					<li style="display:inline-block;" class="btm-margin"><a href="innerHomeWorkoutList.html"><center>List View</center></a></li>
+				</center>
+						<div class="w3-card-4 btm-margin" style="width:100%">
+							<header class="w3-container w3-light-grey">
+								<h3><center>Soccer Game</center></h3>
+							</header>
+							<div class="w3-container">
+								<p>Date: 27/10/17<br>
+									Location: UQ Soccer Grounds<br>
+									23 people going</p>
+								<hr>
+								<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+								<p>Just a friendly game of soccer to be played from 6-7pm</p><br>
+							</div>
+							<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+							<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
+							<button class="w3-button w3-block w3-dark-grey" onclick="location.href='exampleWorkout.html';">More Info &#128712;</button>
+						</div>
 
-					
+						<div class="w3-card-4 btm-margin" style="width:100%">
+							<header class="w3-container w3-light-grey">
+								<h3><center>Weight Training</center></h3>
+							</header>
+							<div class="w3-container">
+								<p>Date: 31/10/17<br>
+									Location: Snap Fitness West End<br>
+									15 people going</p>
+								<hr>
+								<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+								<p>Weight Training with a certified PT. This lasts all day first in first served</p><br>
+							</div>
+							<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+							<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
+							<button class="w3-button w3-block w3-dark-grey" onclick="location.href='exampleWorkout.html';">More Info &#128712;</button>
+						</div>
+
+						<div class="w3-card-4 btm-margin" style="width:100%">
+							<header class="w3-container w3-light-grey">
+								<h3><center>Jogging in the City</center></h3>
+							</header>
+							<div class="w3-container">
+								<p>Date: 30/10/17<br>
+									Location: Southbank Cultural Center<br>
+									23 people going</p>
+								<hr>
+								<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+								<p>Jogging around Brisbane CBD and Southbank on the designated paths starting at 4pm</p><br>
+							</div>
+							<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+							<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
+							<button class="w3-button w3-block w3-dark-grey" onclick="location.href='exampleWorkout.html';">More Info &#128712;</button>
+						</div>
+
+						<div class="w3-card-4 btm-margin" style="width:100%">
+							<header class="w3-container w3-light-grey">
+								<h3><center>Circuit Training</center></h3>
+							</header>
+							<div class="w3-container">
+								<p>Date: 27/10/17<br>
+									Location: Musgrave Park<br>
+									35 people going</p>
+								<hr>
+								<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+								<p>Circuit session mainly with body weight movements. 2-3pm</p><br>
+							</div>
+							<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+							<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
+							<button class="w3-button w3-block w3-dark-grey" onclick="location.href='exampleWorkout.html';">More Info &#128712;</button>
+						</div>
+
+						<div class="w3-card-4 btm-margin" style="width:100%">
+							<header class="w3-container w3-light-grey">
+								<h3><center>Swimming Session</center></h3>
+							</header>
+							<div class="w3-container">
+								<p>Date: 29/10/17<br>
+									Location: UQ Aquatic Center<br>
+									12 people going</p>
+								<hr>
+								<img src="images/person.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+								<p>Early swimming session from 5-7am</p><br>
+							</div>
+							<button class="w3-button w3-block w3-green" onclick="alertFunction()">Attend Event?</button>
+							<button class="w3-button w3-block w3-blue" onclick="location.href='ownfriend.html';">Invite Friends +</button>
+							<button class="w3-button w3-block w3-dark-grey" onclick="location.href='exampleWorkout.html';">More Info &#128712;</button>
+						</div>
+
+
+
+					  </div>
+					</div>
+				</ul>
+
 				</div>
-			</div>
-		</div>
-	</div>
 </body>
 
 </html>
