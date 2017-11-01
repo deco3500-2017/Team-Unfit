@@ -148,7 +148,7 @@ How will it facilitate communication and / or file sharing?
 5. Awareness
 
 ### Key Words
-1. Community
-2. Fitness
+- #Community
+- #Fitness
 3. Exercise
 
